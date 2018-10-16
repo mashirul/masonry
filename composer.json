@@ -1,7 +1,7 @@
 {
-  "name": "desandro/masonry",
+  "name": "mashirul/masonry",
   "description": "Cascading grid layout library",
-  "type": "component",
+  "type": "drupal-library",
   "keywords": ["javascript", "library", "grid", "browser", "dom", "layout", "outlayer"],
   "homepage": "https://masonry.desandro.com",
   "license": "MIT",
